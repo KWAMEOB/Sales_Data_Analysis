@@ -111,7 +111,7 @@ https://public.tableau.com/authoring/ExecutiveSalesSummary_16577370642950/SalesD
 
 •	From the analysis above, we noticed that November is the best month in terms of sales and with sales value of around $2,118,885.67. 
 
-•	The city with the highest sales was Madrid with sales of $1082551.44 and the country with the highest sales was the USA with sales value of $3,627,982.83
+•	The city with the highest sales was Madrid with sales of $1,082,551.44 and the country with the highest sales was the USA with sales value of $3,627,982.83
 
 •	The highest sales for all the products in the product line happened in Q4(Quarter 4). That means, Q4 is the most important Quarter in terms of sales for any product line.
 
